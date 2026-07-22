@@ -1,0 +1,5 @@
+select round(sum(sales_2022.OrderQuantity*products.ProductPrice),2) as Total_por_subcategoria,product_subcategories.SubcategoryName
+from sales_2022
+join products on sales_2022.ProductKey=products.ProductKey
+join product_subcategories on products.ProductSubcategoryKey=product_subcategories.ProductSubcategoryKey
+group by product_subcategories.SubcategoryName
