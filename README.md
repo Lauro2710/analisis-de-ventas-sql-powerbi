@@ -72,5 +72,6 @@ Incluye visualizaciones de:
 **Lauro Ivan Perez Gastelum**
 
 Proyecto desarrollado como parte de mi portafolio de análisis de datos utilizando **SQL** y **Power BI**.
+
 **Fuente oficial:**
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure
