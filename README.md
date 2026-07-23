@@ -65,7 +65,6 @@ Incluye visualizaciones de:
 - Power BI
 - SQL
 - DAX
-- Power Query
 
 ---
 
